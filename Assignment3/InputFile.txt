@@ -1,0 +1,25 @@
+12
+Dean,James
+Math 90 86 80 95 100 99 96 93
+River,Green
+English 88 75 90
+York,Ray
+Science 95 76 72 88
+Alan,William
+Math 68 56 78 88 84 75 65 75
+Lewis,Carrol
+Math 44 58 23 76 50 59 77 68
+Holder,James
+Science 84 56 71 67
+Garner,Jason
+English 75 56 69
+Anderson,Harold
+English 15 26 39
+Wallace,Brett
+Science 51 56 51 52
+Walsh,Willy
+Math 56 53 54 57 59 60 55 58
+Gibson,Lee
+English 90 92 94
+Sutton,Lee
+Math 70 76 70 75 73 80 81 72
